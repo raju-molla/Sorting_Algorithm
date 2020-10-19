@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+///Not for negative values
 void solve(int a[], int n,int k)
 {
 
